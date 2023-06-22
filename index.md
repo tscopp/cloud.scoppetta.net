@@ -1,5 +1,7 @@
 # Computer Repair
 
+Located in Washougal, WA and serving Washougal, Camas, and the ssurrounding areas.
+
 ## Sevices
 - Computer Repair
 - Small business IT support
