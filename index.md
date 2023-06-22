@@ -1,3 +1,15 @@
+# Computer Repair
+
+## Sevices
+- Computer Repair
+- Small business IT support
+- PC Builds (Home, business, gaming)
+- Data Recovery
+- Website Design & Hosting
+- Quickbooks support
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tscopp/cloud.scoppetta.net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
